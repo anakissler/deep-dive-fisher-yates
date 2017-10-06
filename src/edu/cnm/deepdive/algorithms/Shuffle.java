@@ -8,7 +8,6 @@ import java.util.Random;
 
 /**
  * Implements the Fisher-Yates algorithm
- * @author Ana Kistner
  *
  */
 public class Shuffle {
